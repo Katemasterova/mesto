@@ -1,0 +1,12 @@
+.header {
+    width: calc(100% - 200px - 200px);
+    min-height: 74px;
+    border-bottom: 1px solid #545454;
+    display: flex;
+    margin: 0 auto;
+}
+
+.header__logo {
+    width: 142px;
+    height: 33px;
+}
